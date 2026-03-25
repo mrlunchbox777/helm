@@ -10,20 +10,20 @@ require (
 	github.com/Masterminds/sprig/v3 v3.3.0
 	github.com/Masterminds/squirrel v1.5.4
 	github.com/Masterminds/vcs v1.13.3
-	github.com/ProtonMail/go-crypto v1.3.0
+	github.com/ProtonMail/go-crypto v1.4.1
 	github.com/asaskevich/govalidator v0.0.0-20230301143203-a9d515a09cc2
 	github.com/cyphar/filepath-securejoin v0.6.1
 	github.com/distribution/distribution/v3 v3.0.0
 	github.com/evanphx/json-patch/v5 v5.9.11
 	github.com/extism/go-sdk v1.7.1
-	github.com/fatih/color v1.18.0
+	github.com/fatih/color v1.19.0
 	github.com/fluxcd/cli-utils v0.37.2-flux.1
 	github.com/foxcpp/go-mockdns v1.2.0
 	github.com/gobwas/glob v0.2.3
 	github.com/gofrs/flock v0.13.0
 	github.com/gosuri/uitable v0.0.4
 	github.com/jmoiron/sqlx v1.4.0
-	github.com/lib/pq v1.11.2
+	github.com/lib/pq v1.12.0
 	github.com/mattn/go-shellwords v1.0.12
 	github.com/moby/term v0.5.2
 	github.com/opencontainers/go-digest v1.0.0
@@ -105,7 +105,7 @@ require (
 	github.com/lann/ps v0.0.0-20150810152359-62de8c46ede0 // indirect
 	github.com/liggitt/tabwriter v0.0.0-20181228230101-89fcab3d43de // indirect
 	github.com/mailru/easyjson v0.9.0 // indirect
-	github.com/mattn/go-colorable v0.1.13 // indirect
+	github.com/mattn/go-colorable v0.1.14 // indirect
 	github.com/mattn/go-isatty v0.0.20 // indirect
 	github.com/mattn/go-runewidth v0.0.9 // indirect
 	github.com/miekg/dns v1.1.57 // indirect
